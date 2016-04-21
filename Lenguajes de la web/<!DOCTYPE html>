@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Ejemplo Laboratoria</title>
+</head>
+<body background="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS9xar_bKvKSr9KxqB6nOO59izttfpfNJe9j5xJwKTC_7KJcFa9kw">
+	<h1>Este es un titulo</h1>
+	<p>Este es un parrafo. Este es un parrafo. Este es un parrafo. Este es un parrafo. Este es un parrafo. Este es un parrafo. Este es un parrafo. Este es un parrafo. Este es un parrafo. Este es un parrafo. Este es un parrafo.</p>
+	
+	<h2>"Intereses"</h2>
+<ul TYPE=square>
+	<li>Trotar</li>
+	<li>Ir al cine</li>
+	<li>salir a comer</li>
+
+</ul>
+	<h2>"3 sueños que tengo"</h2>
+	<ol type= A>
+	<li>Terminar Laboratoria</li>
+	<li>Ver a mi hijo crecer</li>
+	<li>Terminar mi Carrera</li>
+
+	</ol>
+	<img src="http://www.enbolivia.com/files/imagen_corporativa.jpg">
+
+</body>
+</html>

@@ -1,0 +1,35 @@
+/*
+Breakpoints: 
+320px - 375px; GREEN
+376px - 667px; YELLOW
+667px - 1024px; RED
+1024px - 1600px; BLUE
+*/
+.img-container{
+	text-align: center;
+}
+.img-container,img{
+	max-width: 100%;
+}
+@media (max-width: 375px) {
+	body {
+		background-color: #95F351;
+	}
+}
+@media (min-width: 376px) and  (max-width: 667px) { 
+	body {
+		background-color: #E3E50B;
+	}
+}
+
+@media (min-width:667px) and (max-width: 1024px) {
+	body{
+		background-color: #EA1919;
+	}
+}
+@media (min-width:1024px) and (max-width:1600px) { 
+	body{
+		background-color: #1933FC;
+	}
+}
+

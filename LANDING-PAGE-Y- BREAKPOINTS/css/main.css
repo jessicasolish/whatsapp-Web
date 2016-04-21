@@ -1,0 +1,50 @@
+.beutiful{
+	background-color: #808080;
+	color: white;
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+.beutiful h2{
+	font-family:Open Sans;
+	font-size: 48px;
+}
+.beutiful p{
+	margin-top: 40px;
+}
+img{
+	max-width: 100%;
+}
+.text-right{
+	text-align: center;
+}
+.menu a{
+	width: 300px;
+	float: right;
+	list-style: none;
+	text-decoration: none;
+	display:inline-table;
+}
+
+.backyard h2 p{
+	text-align: center;
+}
+.form-container{
+	background-color:#BBB1B1;
+	width: 200px;
+	height: 100px;
+	float: right;
+	border-radius:10px;
+}
+.input-container{
+		background-color: #BBB1B1;
+		border-radius: 30px;
+		color: white;
+		top: 100px;
+}
+
+@media (max-width: 535px) {
+	.col-bp {
+	    width: 100%;
+	}
+}
+/* Tu CSS va aqui */

@@ -1,0 +1,79 @@
+.seccion{
+	width: 550px;
+	display:inline-block;
+	padding-left: 200px;
+	padding-right: 200px;
+}
+.clase1{
+	width: 60px;
+	display: inline;
+	align:left;
+	padding-right: 40px;
+	padding-left: 40px;
+}
+.clase2{
+	width: 60px;
+	display: inline;
+	align:left;
+	padding-right: 40px;
+	padding-left: 40px;
+}
+.clase3{
+	width: 60px;
+	display: inline;
+	padding-right: 40px;
+	padding-left: 40px;
+
+}
+.clase4{
+	width: 60px;
+	display: inline;
+	padding-right: 40px;
+	padding-left: 40px;
+}
+.seccion2{
+	width: 100px;
+	align-content: center;
+}
+.texto{
+	font-size: 20px;
+	text-align: center;
+	padding-left: 50px;
+	padding-right: 50x;
+}
+.seccion3{
+	width: 100px;
+	align-content: center;
+}
+.seccion4{
+	width: 100px;
+	border: 0; 
+	border-top: 3px solid black; 
+	border-bottom: 1px solid black;
+}
+.Img1{
+	display: block;
+	position: static;
+}
+.Img2{
+	display: block;
+	position: relative;
+	left: 100px;
+}
+.Img3{
+	display: block;
+	position: relative;
+}
+.Img4{
+	display: block;
+	position: relative;
+}
+.Img5{
+	display: block;
+	position: relative;
+}
+.Img6{
+	display: block;
+	position: relative;
+}
+

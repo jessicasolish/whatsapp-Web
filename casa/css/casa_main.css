@@ -1,0 +1,52 @@
+.triangulo{
+     width: 0;
+     height: 0;
+     border-right: 100px solid transparent;
+     border-top: 100px solid transparent;
+     border-left: 100px solid transparent;
+     border-bottom: 100px solid #f0ad4e;
+     position: absolute;
+     bottom: 100%;
+}
+
+.casa{
+	position: relative;
+	left: 40%;
+	width:200px;
+	height:200px;
+	background-color: #F418D1;	
+	top: 200px;
+}
+.puerta{
+	width: 60px;
+	height:80px;
+	background-color: #15FB4E;
+	position: absolute;
+	top: 120px;
+	left: 75px;
+}
+.chimenea {
+	width: 30px;
+	height:70px;
+	background-color: #1541EE;
+	position: absolute;
+	left: 660px;
+	top: 130px;
+	bottom: 100%;
+	z-index: -1;
+
+}
+.humo{
+     width: 30px;
+     height: 30px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background: #5cb85c;
+     left: 690px;
+     top: 100px;
+     bottom: 100%;
+     position: absolute;
+ }
+
+

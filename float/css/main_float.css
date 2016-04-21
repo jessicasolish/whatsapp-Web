@@ -1,0 +1,22 @@
+.cuadro 1 {
+	width:200px;
+	height:200px;
+	background-color: yellow;
+	display: inline-block;
+}
+.cuadro 2 {
+	width:100px;
+	height:100px;
+	background-color: crimson;
+	display: block;
+}
+.cuadro 3 {
+	width:100px;
+	height:100px;
+	background-color: indigo;
+	display: block;
+}
+
+
+
+

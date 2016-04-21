@@ -1,0 +1,122 @@
+*{
+	font-family: sans-serif;
+}
+header {
+	padding: 15px 0;
+	margin: 0;
+	color: #fff;
+	border-bottom: solid #333 1px;
+	background: #333;
+}
+.logo {
+	width: 80px;
+	height: 80px;
+}
+
+nav ul {
+	list-style-type:none;
+	padding-top: 34px;
+	margin: 0 -15px 0 0;
+	float: right;
+	font-size: 14px;
+	line-height: 14px;
+	text-transform: uppercase;
+	white-space: nowrap;
+
+}
+nav li{
+	position: relative;
+	float: left;
+	margin: 0;
+	padding: 0;
+}
+nav li:hover a {
+	background: #585858;
+}
+nav a {
+	text-decoration: none;	
+	padding: 10px 15px;
+	color: #eee;
+	text-shadow: 2px 2px 4px #000;
+}
+nav a :hover {
+	color: #fff;
+}
+.media{
+	background-color: #D4CDCD;
+
+}
+.imagen{
+	width: 100%;
+	height: 100%;
+	
+}
+.parrafo{
+	text-align: center;
+}
+
+.imagenes2{
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	display: inline-block;
+}
+
+.section1{
+	width: 100%;
+	height:100%;
+	padding: 0;
+	margin: 0;
+}
+
+.fondoGrande div{
+	padding: 0;
+	margin: 10px;
+}
+
+a{
+	text-decoration: none;
+}
+h2{
+	font-size: 17px;
+	padding-top: 20px;
+	padding-left: 10px;
+	margin: 0;
+}	
+h3{
+	font-size: 17px;
+	padding-top: 20px;
+	padding-left: 10px;
+	margin: 0;
+}
+p{
+	color: #0C65F8;
+	font-size: 15px;
+}
+.terminoPagina{
+	background-color: #918888;
+	font-size: 14px;
+}
+
+p{
+	color: white;
+}
+.listado li{
+	color: #D75454;
+	display: inline-table;
+	text-decoration: none;
+	margin: 10px;
+
+}
+h4{
+	font-size: 12px;
+	text-align: center;
+	color: white;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.listado{
+	text-align: center;
+	margin-top: 20px;
+}

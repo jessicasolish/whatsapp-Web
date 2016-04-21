@@ -1,0 +1,39 @@
+.body{
+	margin: 0;
+	padding: 0;
+}
+.rosa{
+	width: 200px;
+	height: 200px;
+	background-color: #EA08D1;
+	position: relative;
+	
+}
+.azul{
+	width: 200px;
+	height: 200px;
+	background-color: #0B1FE9;
+	position: relative;
+	left: 200px;
+
+	
+}
+.verde{
+	width: 200px;
+	height: 200px;
+	background-color: #19E638;
+	position: absolute;
+	bottom: 50px;	
+	top: 207px;
+}
+.amarillo{
+	width: 200px;
+	height: 200px;
+	background-color: yellow;
+	position: relative;
+	bottom: 1px;
+
+
+	
+	
+}

@@ -1,0 +1,31 @@
+.container{
+	width:920px;
+	margin:0 auto;
+	background-color: #515EDC;
+}
+
+/*.container div{
+	width: 300px;
+	height: 300px;
+	background-color: crimson;
+	display: inline-block;
+	border: 10px #C2BF25 solid;
+	padding: 20px;
+	box-sizing: border-box;
+
+
+}*/
+.caja{
+	width: 300px;
+	padding: 20px;
+	background-color:#F01747;
+	display: inline-block;
+}
+.caja div{
+	border: 10px solid cyan;
+	height: 240px;
+	padding: 20px;
+
+}
+
+

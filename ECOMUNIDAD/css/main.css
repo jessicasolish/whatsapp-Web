@@ -1,0 +1,80 @@
+header{
+	padding: 0;
+	margin: 0;
+	color: white;
+}
+
+.logo{
+	width: 100px;
+	height: 100px;
+	margin-left: 80px;
+} 
+
+.Menu li{
+	margin: 50px;
+	padding: 10;
+	float: left;
+	font-size: 15px;
+	font-family: sans-serif;
+	text-decoration: none;
+}
+
+.imagen .recortada{
+	width: 100rem;
+	height: 20rem;
+	margin-bottom: 0;
+	margin-top: 5px;
+}
+
+.texto p{
+	text-align: center;
+	background-color: #cccccc;
+	font-size: 14px;
+	padding-top: 60px;
+	padding-bottom: 60px;
+	padding-right: 10px;
+	padding-left: 10px;
+	margin-top: 0;
+	margin-bottom: 10px;
+	position: relative;
+	bottom: 90px;
+	font-family: sans-serif;
+	color: #808080;
+}
+.mision{
+	position: relative;
+	bottom: 40px;
+	left: 200px;
+
+}
+.vision{
+	position: relative;
+	bottom: 60px;
+	left: 200px;
+}
+.mision1{
+	position: relative;
+	left: 100px;
+	bottom: 20px;
+}
+
+.vision1{
+	position: relative;
+	left: 100px;
+	bottom: 40px;
+}
+.fondoGris{
+	position: relative;
+	width: 100%;
+	right: 30px;
+	padding-right: 30px;
+
+
+}
+.fotografia{
+	max-width: 100px;
+	position: relative;
+	padding-left: 66px;
+	right: 30px;
+	left: 10px;
+}/* Inserta tu codigo aqui */
